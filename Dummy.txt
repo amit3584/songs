@@ -1,3 +1,5 @@
 THis is dummy file for testing.
 Added some lines from server.
 adding line from local.
+adding another line.
+adding line 1.
