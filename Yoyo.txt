@@ -5,3 +5,6 @@ adding another line.
 adding line 1.
 ----------------------------
 adding line for lightweight tag
+
+----------------------
+adding a line after branching to branch1
