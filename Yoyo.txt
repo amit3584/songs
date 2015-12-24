@@ -8,3 +8,5 @@ adding line for lightweight tag
 
 ----------------------
 adding a line after branching to branch1
+----
+adding another line to branch1
